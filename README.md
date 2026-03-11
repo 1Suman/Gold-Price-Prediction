@@ -13,7 +13,7 @@ This is a **minor project** on **Gold Price Prediction**, developed as a **group
 - Python
 - Pandas, NumPy, Matplotlib
 - Scikit-learn
-- TensorFlow/Keras (if deep learning is used)
+- TensorFlow/Keras 
 - Jupyter Notebook/Google Colab
 
 ## 📂 Project Structure
